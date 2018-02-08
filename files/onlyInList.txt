@@ -1,0 +1,117 @@
+Only in MSO
+
+MSO_3000276	catalytic ability
+MSO_3000251	sequence molecular entity or region structure
+MSO_3000297	ploidy
+MSO_0001816	nonsynonymous translatability
+MSO_0001815	synonymous translatability
+MSO_0000976	crypticness
+CHEBI_23367	molecular entity
+BFO_0000141	immaterial entity
+BFO_0000040	material entity
+MSO_0000860	synteny
+CHEBI_33839	macromolecular entity
+MSO_0000859	biological paralogy
+MSO_0000858	biological orthology
+MSO_0000857	biological homology
+MSO_0000856	biological conservation
+MSO_0000814	rescuability
+BFO_0000017	realizable entity
+BFO_0000016	disposition
+BFO_0000004	independent continuant
+BFO_0000003	occurrent
+CHEBI_24431	chemical entity
+CHEBI_24433	group
+MSO_0000782	naturalness
+MSO_0000784	biological foreignness
+MSO_3000331	nonsense translatability
+MSO_3000330	nonconservative missense translatability
+MSO_3000329	conservative missense translatability
+MSO_3000328	missense translatability
+MSO_0001234	sequence mobility
+
+Only in SO
+
+MSO_0000312	status of having been experimentally determined
+MSO_0001472	primer match
+MSO_0001424	pyrosequenced read
+MSO_0001462	contig collection
+MSO_0001470	UST match
+MSO_0000689	cDNA match
+MSO_0000688	golden path
+MSO_0000668	EST match
+MSO_0001866	BAC read contig
+MSO_0001875	unassigned supercontig
+MSO_0001876	partial genomic sequence assembly
+MSO_0001831	peptide HMM match
+MSO_0001828	genomic DNA read
+MSO_0001827	mRNA read
+MSO_0001457	region of clustered transcription
+MSO_0001428	expressed sequence assembly
+MSO_0001426	polymerase synthesis read
+MSO_0001425	ligation-based read
+MSO_0001423	dye terminator read
+MSO_0000996	predicted gene
+MSO_0000994	consensus sequence molecular entity or region
+MSO_0001086	uncertainly identified region
+MSO_0001085	conflicting sequence collection
+MSO_0001083	residue pair not adjacent in full-length sequence
+MSO_0000343	sequence match
+MSO_0000347	nucleotide match
+MSO_0000349	peptide match
+MSO_0000719	ultracontig
+MSO_0000911	status of having been predicted by ab initio computation
+MSO_0000910	orphanness
+MSO_1001247	orphan CDS
+MSO_0000909	status of having been predicted based on similarity to an EST or cDNA
+MSO_0000908	status of having been predicted based on domain matching
+MSO_0000906	status of being independently known
+MSO_0000905	epistemic quality
+MSO_0000415	status of having been invalidated by genomic poly(A)-primed cDNA
+MSO_0000789	status of having been validated
+MSO_1001259	CDS predicted based on similarity to EST or cDNA
+MSO_1001251	CDS predicted based on sequence similarity
+MSO_0000007	read-pair read
+MSO_1001249	CDS predicted based on domain matching
+MSO_0000177	cross-genome match
+MSO_0000039	sequence match region
+MSO_0000150	read
+MSO_0000149	contig
+MSO_0000148	supercontig
+MSO_0000143	assembly component
+MSO_0000468	golden path fragment
+MSO_0000102	expressed sequence match
+MSO_0000414	status of having been invalidated by genomic contamination
+MSO_0000476	contig read
+MSO_0000472	tiling path
+MSO_0000474	tiling path fragment
+MSO_0000813	partially processed cDNA clone
+MSO_0000812	poly(A)-primed cDNA clone
+MSO_0000811	genomically contaminated cDNA clone
+MSO_0000810	chimeric cDNA clone
+MSO_0000809	invalidated cDNA clone
+MSO_0000808	validated cDNA clone
+MSO_0000499	virtual sequence
+MSO_0000480	tiling path clone
+MSO_0100010	unannotated analyzed region
+MSO_0000353	sequence assembly
+MSO_0001642	mathematically defined repeat
+MSO_0000362	status of having been invalidated by chimeric cDNA
+MSO_0000416	status of having been invalidated by partial processing
+MSO_0001261	region of overlapping identified sequence features
+MSO_0001253	sonicate-fragment-derived assembly component
+MSO_0001252	RH map
+MSO_0001251	STS map
+MSO_0001250	fingerprint map
+MSO_0001249	fragment assembly
+MSO_0001248	assembly
+MSO_0000181	translated nucleotide match
+MSO_0000413	sequencing variant
+MSO_0000790	status of having been invalidated
+MSO_0001991	consensus AFLP fragment
+BFO_0000031	generically dependent continuant
+MSO_0001790	paired-end fragment
+MSO_2000061	database sequence
+MSO_0000730	gapped region
+MSO_0000732	status of having been predicted
+MSO_0001471	RST match
