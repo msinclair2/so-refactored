@@ -107,7 +107,7 @@ public class MSOToSOCopier {
             for (OWLAnnotation ann : EntitySearcher.getAnnotations(cls, mso)) {
                 OWLAnnotationProperty ann_prop = ann.getProperty();
                 IRI ann_prop_IRI = ann_prop.getIRI();
-                // Test if this is the only in so or mso property.
+                // Scratch if this is the only in so or mso property.
                 if (ann_prop_IRI.equals(is_represented_only_in_SO)) {
                     only_in = true;
                     onlyInSO.add(cls);

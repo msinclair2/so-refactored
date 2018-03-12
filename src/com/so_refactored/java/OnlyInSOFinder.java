@@ -50,7 +50,7 @@ public class OnlyInSOFinder {
             for (OWLAnnotation ann : EntitySearcher.getAnnotations(cls, mso)) {
                 OWLAnnotationProperty ann_prop = ann.getProperty();
                 IRI ann_prop_IRI = ann_prop.getIRI();
-                // Test if this is the only in so property.
+                // Scratch if this is the only in so property.
                 if (ann_prop_IRI.equals(is_represented_only_in_SO)) {
                     // Get the label on this class.
                     for (OWLAnnotation label : EntitySearcher.getAnnotations(cls, mso, df.getRDFSLabel())) {
