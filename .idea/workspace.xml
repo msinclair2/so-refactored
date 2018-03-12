@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa00e7e7-8d49-4824-b460-cd31a73a3221" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/so_refactored/java/MSOGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/files/SO.owl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/files/catalog-v001.xml" afterPath="$PROJECT_DIR$/files/catalog-v001.xml" />
-      <change beforePath="$PROJECT_DIR$/files/master.owl" afterPath="$PROJECT_DIR$/files/master.owl" />
-      <change beforePath="$PROJECT_DIR$/out/production/so-refactored/com/so_refactored/java/Main.class" afterPath="$PROJECT_DIR$/out/production/so-refactored/com/so_refactored/java/Main.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/so-refactored/com/so_refactored/java/SOGenerator.class" afterPath="$PROJECT_DIR$/out/production/so-refactored/com/so_refactored/java/SOGenerator.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/so-refactored/com/so_refactored/java/Test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/so-refactored/com/so_refactored/java/onlyInList.class" afterPath="$PROJECT_DIR$/out/production/so-refactored/com/so_refactored/java/onlyInList.class" />
-      <change beforePath="$PROJECT_DIR$/src/com/so_refactored/java/MSOToSOCopier.java" afterPath="$PROJECT_DIR$/src/com/so_refactored/java/MSOToSOCopier.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/so_refactored/java/Main.java" afterPath="$PROJECT_DIR$/src/com/so_refactored/java/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/so_refactored/java/OnlyInSOExtractor.java" afterPath="$PROJECT_DIR$/src/com/so_refactored/java/OnlyInSOExtractor.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/so_refactored/java/OnlyInSOFinder.java" afterPath="$PROJECT_DIR$/src/com/so_refactored/java/OnlyInSOFinder.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/so_refactored/java/SOGenerator.java" afterPath="$PROJECT_DIR$/src/com/so_refactored/java/SOGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/so_refactored/java/Test.java" afterPath="$PROJECT_DIR$/src/com/so_refactored/java/Scratch.java" />
+      <change beforePath="$PROJECT_DIR$/files/hello.owl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/files/master.owl" afterPath="$PROJECT_DIR$/master.owl" />
+      <change beforePath="$PROJECT_DIR$/files/onlyInList.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/files/onlyInSO.owl" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +23,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/so_refactored/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="550">
               <caret line="28" column="66" lean-forward="false" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -58,7 +47,7 @@
       <file leaf-file-name="SOGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/so_refactored/java/SOGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="330">
               <caret line="269" column="19" lean-forward="false" selection-start-line="251" selection-start-column="7" selection-end-line="269" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -71,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MSOGenerator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MSOGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/so_refactored/java/MSOGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="386">
@@ -81,6 +70,26 @@
                 <element signature="e#2146#2244#0" expanded="true" />
                 <element signature="e#4819#4897#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/output.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-946">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,7 +117,7 @@
       <file leaf-file-name="Scratch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/so_refactored/java/Scratch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
+            <state relative-caret-position="3608">
               <caret line="230" column="0" lean-forward="false" selection-start-line="230" selection-start-column="0" selection-end-line="230" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -125,81 +134,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IOHelper.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/robot.jar!/org/obolibrary/robot/IOHelper.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="26" />
-              <folding>
-                <marker date="1513561037414" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1513561037414" expanded="true" signature="144:2499" ph="..." />
-                <marker date="1513561037414" expanded="true" signature="2835:3064" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="3104:3435" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="3482:3519" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="3554:3849" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="3882:4167" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="4221:4456" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="4534:4718" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="4816:5069" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="5167:5337" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="5413:5545" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="5641:5842" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="5936:8075" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="8160:8514" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="8613:9466" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="9566:9641" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="9739:9816" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="9912:10249" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="10373:10458" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="10580:11439" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="11491:12025" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="12065:12751" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="12835:13155" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="13214:13394" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="13472:13658" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="13728:13827" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="13894:14140" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="14219:14284" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="14363:14972" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="15032:15219" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="15253:15297" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="15328:15373" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="15419:15552" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="15600:15824" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="15878:16102" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="16157:16386" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="16426:16469" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="16558:16890" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="16943:17017" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="17094:17351" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="17409:17754" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="17801:17856" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="17911:17948" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="18006:18337" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="18399:18448" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="18508:18636" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="18715:18778" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="18864:18936" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="19017:19309" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="19388:19451" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="19537:19609" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="19690:19988" ph="{...}" />
-                <marker date="1513561037414" expanded="true" signature="20069:20570" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="onlyInList.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/files/onlyInList.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -322,6 +256,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -336,27 +273,13 @@
             </path>
             <path>
               <item name="so_refactored" type="b2602c69:ProjectViewProjectNode" />
-              <item name="so-refactored" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="so_refactored" type="b2602c69:ProjectViewProjectNode" />
-              <item name="so-refactored" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="so_refactored" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -369,6 +292,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="getEquivalentClassesAxioms&#9;PSI&#9;JAVA://org.semanticweb.owlapi.model.OWLAxiomIndex#getEquivalentClassesAxioms" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -617,7 +545,6 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -628,7 +555,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18385416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18385416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -639,8 +567,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -658,20 +586,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/files/so.owl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/output.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/robot.jar!/org/obolibrary/robot/ReasonerHelper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -722,9 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,9 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -883,13 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/output.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/robot.jar!/org/obolibrary/robot/ReasonerHelper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -944,9 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1067,7 +965,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/so_refactored/java/Scratch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="3608">
           <caret line="230" column="0" lean-forward="false" selection-start-line="230" selection-start-column="0" selection-end-line="230" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1077,7 +975,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/so_refactored/java/SOGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="330">
           <caret line="269" column="19" lean-forward="false" selection-start-line="251" selection-start-column="7" selection-end-line="269" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1091,7 +989,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/so_refactored/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="550">
           <caret line="28" column="66" lean-forward="false" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1108,6 +1006,30 @@
             <element signature="e#2146#2244#0" expanded="true" />
             <element signature="e#4819#4897#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/hello.owl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-946">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
